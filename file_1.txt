@@ -7,3 +7,8 @@ New branch 2.0
 One more commit
 
 Conflict commit to main
+
+Commit to branch
+
+
+Commit for conflict feature_1
