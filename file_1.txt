@@ -6,4 +6,4 @@ Change 1.2
 New branch 2.0
 One more commit
 
-Commit to branch
+Conflict commit to main
