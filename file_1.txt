@@ -12,3 +12,6 @@ Commit to branch
 
 
 Commit for conflict feature_1
+
+
+For rebase
