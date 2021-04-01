@@ -15,3 +15,5 @@ Commit for conflict feature_1
 
 
 For rebase 2
+
+Tag 2
